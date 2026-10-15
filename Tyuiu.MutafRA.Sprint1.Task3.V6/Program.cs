@@ -1,7 +1,7 @@
 ﻿using System;
-using Tyuiu.MutafRA.Sprint1.Task2.V6.Lib;
+using Tyuiu.MutafRA.Sprint1.Task3.V6.Lib;
 
-namespace Tyuiu.MutafRA.Sprint1.Task2.V6
+namespace Tyuiu.MutafRA.Sprint1.Task3.V6
 {
     class Program
     {
@@ -49,4 +49,5 @@ namespace Tyuiu.MutafRA.Sprint1.Task2.V6
             Console.ReadKey();
         }
     }
+}
 }
