@@ -1,0 +1,22 @@
+<Solution>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.MutafRA.Sprint1.Task2.V7.Lib/Tyuiu.MutafRA.Sprint1.Task2.V7.Lib.csproj" />
+    <Project Path="Tyuiu.MutafRA.Sprint1.Task2.V7.Test/Tyuiu.MutafRA.Sprint1.Task2.V7.Test.csproj" />
+    <Project Path="Tyuiu.MutafRA.Sprint1.Task2.V7/Tyuiu.MutafRA.Sprint1.Task2.V7.csproj" />
+  </Folder>
+  <Folder Name="/Task3/">
+    <Project Path="Tyuiu.MutafRA.Sprint1.Task3.V6.Lib/Tyuiu.MutafRA.Sprint1.Task3.V6.Lib.csproj" />
+    <Project Path="Tyuiu.MutafRA.Sprint1.Task3.V6.Test/Tyuiu.MutafRA.Sprint1.Task3.V6.Test.csproj" />
+    <Project Path="Tyuiu.MutafRA.Sprint1.Task3.V6/Tyuiu.MutafRA.Sprint1.Task3.V6.csproj" />
+  </Folder>
+  <Folder Name="/Task4/">
+    <Project Path="Tyuiu.MutafRA.Sprint1.Task4.V28.Lib/Tyuiu.MutafRA.Sprint1.Task4.V28.Lib.csproj" />
+    <Project Path="Tyuiu.MutafRA.Sprint1.Task4.V28.Test/Tyuiu.MutafRA.Sprint1.Task4.V28.Test.csproj" />
+    <Project Path="Tyuiu.MutafRA.Sprint1.Task4.V28/Tyuiu.MutafRA.Sprint1.Task4.V28.csproj" />
+  </Folder>
+  <Folder Name="/Task7/">
+    <Project Path="Tyuiu.MutafRA.Sprint1.Task7.V7.Lib/Tyuiu.MutafRA.Sprint1.Task7.V7.Lib.csproj" />
+    <Project Path="Tyuiu.MutafRA.Sprint1.Task7.V7.Test/Tyuiu.MutafRA.Sprint1.Task7.V7.Test.csproj" />
+    <Project Path="Tyuiu.MutafRA.Sprint1.Task7.V7/Tyuiu.MutafRA.Sprint1.Task7.V7.csproj" />
+  </Folder>
+</Solution>
